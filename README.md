@@ -5,7 +5,8 @@ server repository for 'BobMate'🍚
 ![GOMCAM 20240222_0252490731](https://github.com/hwnooy/BobMate-Server/assets/93791124/a7639564-8560-47fa-96b4-3c22e44ec8ae)
 
 ## 개발 일정, 스택 
-[개발일정] 2024//1/9 ~ 2024/2/18\n
+[개발일정] 2024//1/9 ~ 2024/2/18
+
 [구현 플랫폼] 웹
 [기술 스택] Spring Boot3
 [팀원] PM 1명, Design 1명, FE 3명, BE 3명 
