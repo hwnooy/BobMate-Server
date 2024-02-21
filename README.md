@@ -8,7 +8,9 @@ server repository for 'BobMate'🍚
 [개발일정] 2024//1/9 ~ 2024/2/18
 
 [구현 플랫폼] 웹
+
 [기술 스택] Spring Boot3
+
 [팀원] PM 1명, Design 1명, FE 3명, BE 3명 
 
 ## 서비스 소개
