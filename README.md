@@ -4,7 +4,13 @@
 server repository for 'BobMate'🍚
 ![GOMCAM 20240222_0252490731](https://github.com/hwnooy/BobMate-Server/assets/93791124/a7639564-8560-47fa-96b4-3c22e44ec8ae)
 
-## 서비스 소개 
+## 개발 일정, 스택 
+[개발일정] 2024//1/9 ~ 2024/2/18
+[구현 플랫폼] 웹
+[기술 스택] Spring Boot3
+[팀원] PM 1명, Design 1명, FE 3명, BE 3명 
+
+## 서비스 소개
 밥 친구는 
 일반상황에서는 
 
@@ -54,11 +60,19 @@ server repository for 'BobMate'🍚
 ### API 명세서 
 https://scrawny-icebreaker-16b.notion.site/API-401ce15127ec4662ac59b83559608335?pvs=4 
 
+### API PostMan 시연영상 
+최종 mapping 주소와 조금 다르지만 Request에 따른 Response가 잘 따라옴을 확인할 수 있습니다. 
+https://drive.google.com/file/d/1WJ97ikhkBpxFETkvdbgs0CYSZ8LsUpvG/view?usp=sharing
+
 ### 아쉬웠던 점, 나중에 보완할 점 
 데모데이때 중앙 서버 파트장님이 오셨는데, HTTPS를 안 썼던 이유를 물어보셨다. 프론트와의 협업으로 스프링 서버 파트로 프로젝트는 이번이 처음이라, 배포는 내가 못했는데
 나중에 서버 파트로 다시 프로젝트를 하게 된다면, HTTPS로 보완을 더 강화해서 발전시킬 것. 
 
 크롤링을 못해서 content DB에 testCode로 데이터를 추가했는데, 크롤링 관련 경험을 나중에 더 쌓아서 더 좋은 서비스를 만들고 싶다. 
+
+### AWS Server Error Log 기록 
+white label error
+502 Bad Gate error 
 
 ### 느낀 점 
 마감기한이 있고, 팀프로젝트이면, 팀의 속도에 따라가야함. 프론트와의 소통도 중요하다. 내가 어떻게 설계했고 헤더에 어떤 내용이 추가되어야하는지 전달을 해줘야한다. 
