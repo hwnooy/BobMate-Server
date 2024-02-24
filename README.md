@@ -17,7 +17,7 @@ server repository for 'BobMate'🍚
 밥 친구는 
 일반상황에서는 
 
-### 팀에서 맡은 역할 
+### 팀에서 내가 맡은 역할 
 ##### 1) 일반상황, 특정상황에 따른 컨텐츠 추천기능
 ![GOMCAM 20240222_0256350033](https://github.com/hwnooy/BobMate-Server/assets/93791124/8a397e4d-5e6f-45f3-bcd3-4404a059c6f9)
 
