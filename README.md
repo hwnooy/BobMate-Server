@@ -7,7 +7,7 @@ server repository for 'BobMate'🍚
 
 [구현 플랫폼] 웹
 
-[기술 스택] Spring Boot3, MySQL, AWS EC2, RDS
+[기술 스택] Spring Boot3, MySQL, AWS EC2, RDS .... 
 
 [팀원] PM 1명, Design 1명, FE 3명, BE 3명 
 
@@ -25,7 +25,7 @@ server repository for 'BobMate'🍚
 : Content DB(contentId, GenreList, img_url, link_url. name, contentType 속성)에 있는 데이터 중, 사용자가 선택한 컨텐츠 타입에 따른 
 1차적 핉터링. 여기에서 감정에 따른 추천된 장르
 - 특정 상황 
-:
+: 사용자가 
 
 #### 2) 사용자 피드백에 따른 특정상황 4개 만들기
   : 음식, 장르, 감정으로 특정상황 생성
